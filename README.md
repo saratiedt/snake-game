@@ -1,4 +1,5 @@
-# snake-game## Instalações
+# snake-game
+## Instalações
 Para executar o jogo você deve ter a versão 3.6 ou superior do python instalado em sua máquina
 ``https://www.python.org/downloads/``
 execute o comando ``python -v`` para verificar a versão instalada.
