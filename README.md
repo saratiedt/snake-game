@@ -6,5 +6,5 @@ execute o comando ``python -v`` para verificar a versão instalada.
 E possuir o pygame instalado, execute ``pip install pygame`` para instalar
 
 ## Executar
-Para executar o programa rode o comando ``python snake.py`` dentro da pasta onde o programa de encontra.
+Para executar o programa rode o comando ``python snake.py`` dentro da pasta onde o programa se encontra.
 
